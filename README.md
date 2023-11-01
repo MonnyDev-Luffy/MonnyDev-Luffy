@@ -16,7 +16,7 @@
 I’m a computer engineering student and tech enthusiast
 ------------------------------------------------------
 👩🏻‍💻 Oracle Next Education – Frontend Jr.
-💜 TECNOLOchicas Mx – Frontend teacher
+💜 TECNOLOchicas Mx – Web design teacher
 🧠 Member of Binary Brains UPIICSA
 🏅 Number 1 fan of what I like and are passionate about
 🩺 I’m currently exploring ML and AI applied to the medical area
