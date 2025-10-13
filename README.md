@@ -5,23 +5,36 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!--About me-->
-<picture><img src = "https://i.giphy.com/media/npKSvimI6CKlq9ymRk/giphy.webp" width = 30px align="right"></picture><h3 align="left">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;< Hello, world! I’m Monica GL ><picture></h3>
-<img align="left" src="https://i.pinimg.com/originals/22/22/bf/2222bf4e61a9c909705972dc2e1ad26a.gif" width="40%" style="margin-right: 10px"/>
-<hr>
+<picture>
+  <img src="https://i.giphy.com/media/npKSvimI6CKlq9ymRk/giphy.webp" width="30px" style="float:right;">
+</picture>
 
-<h3 align="center"> &nbsp; &nbsp; I tell u a little bit about [myself]: </h3>
-<pre align="center">
+<h3 style="margin-left: 20px;">&lt; Hello, world! I’m Monica GL &gt;</h3>
+
+<!-- Contenedor principal con flexbox -->
+<div style="display: flex; align-items: center; gap: 20px; margin: 20px; flex-wrap: wrap;">
   
-```
+  <!-- GIF a la izquierda -->
+  <div style="flex: 1; min-width: 250px; max-width: 40%;">
+    <img src="https://i.pinimg.com/originals/22/22/bf/2222bf4e61a9c909705972dc2e1ad26a.gif" style="width: 100%; height: auto; border-radius: 10px;">
+  </div>
+  
+  <!-- Texto a la derecha -->
+  <div style="flex: 1; min-width: 250px;">
+    <h3>I tell u a little bit about [myself]:</h3>
+    <pre style="white-space: pre-wrap;">
 I’m a computer engineering student and tech enthusiast
 ------------------------------------------------------
 👩🏻‍💻 Oracle Next Education – Frontend Jr.
 💜 TECNOLOchicas Mx – Web design teacher
 🧠 Member of Binary Brains UPIICSA
 🏅 Number 1 fan of what I like and are passionate about
-```
-</pre>
+    </pre>
+  </div>
+</div>
+
 <hr>
+
 
 <!--Tab--> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
