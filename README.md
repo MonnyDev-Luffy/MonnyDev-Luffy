@@ -52,7 +52,7 @@ I’m a computer engineering student and tech enthusiast
   <br>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,angular&perline=5"/>
   </a>
 </p>
 </details>
@@ -62,7 +62,7 @@ I’m a computer engineering student and tech enthusiast
   <br>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,maven,mysql,mongodb,docker&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=java,maven,mysql,sqlite,mongodb,docker&perline=5"/>
   </a>
 </p>
 </details>
